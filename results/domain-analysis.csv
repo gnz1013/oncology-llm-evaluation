@@ -1,0 +1,26 @@
+,Group,LLM,N_evals,Accuracy_mean,Relevance_mean,Comprehensiveness_mean,Hallucination_rate,Ready_to_use_rate
+0,Diagnostic,ChatGPT o1-preview,6.0,2.67,2.83,2.67,0.0,0.0
+1,Diagnostic,Claude 3.5 Sonnet,6.0,3.0,2.67,2.83,0.0,0.17
+2,Diagnostic,Gemini 1.5 Pro,6.0,2.17,2.33,2.5,0.17,0.17
+3,Diagnostic,HopeAI,6.0,3.17,3.17,2.83,0.0,0.33
+4,Diagnostic,Myelo,6.0,2.83,3.17,2.83,0.0,0.17
+5,NDMM,ChatGPT o1-preview,45.0,2.78,2.71,2.22,0.02,0.13
+6,NDMM,Claude 3.5 Sonnet,45.0,2.62,2.62,2.29,0.11,0.07
+7,NDMM,Gemini 1.5 Pro,45.0,2.53,2.4,2.0,0.04,0.07
+8,NDMM,HopeAI,45.0,3.22,3.27,3.13,0.04,0.38
+9,NDMM,Myelo,45.0,2.56,2.6,2.16,0.02,0.02
+10,Novel/SpecialPop,ChatGPT o1-preview,15.0,2.87,2.67,2.53,0.07,0.07
+11,Novel/SpecialPop,Claude 3.5 Sonnet,15.0,2.87,2.53,2.27,0.0,0.13
+12,Novel/SpecialPop,Gemini 1.5 Pro,15.0,2.6,2.53,2.27,0.2,0.0
+13,Novel/SpecialPop,HopeAI,15.0,3.07,3.0,2.87,0.07,0.4
+14,Novel/SpecialPop,Myelo,15.0,2.87,2.73,2.4,0.0,0.07
+15,RRMM,ChatGPT o1-preview,63.0,2.76,2.65,2.25,0.05,0.11
+16,RRMM,Claude 3.5 Sonnet,63.0,2.4,2.48,2.16,0.11,0.02
+17,RRMM,Gemini 1.5 Pro,63.0,2.33,2.25,1.94,0.1,0.03
+18,RRMM,HopeAI,63.0,3.08,3.22,3.1,0.06,0.32
+19,RRMM,Myelo,63.0,2.49,2.44,2.1,0.06,0.02
+20,Special,ChatGPT o1-preview,21.0,2.81,2.67,2.52,0.0,0.19
+21,Special,Claude 3.5 Sonnet,21.0,2.62,2.71,2.52,0.14,0.14
+22,Special,Gemini 1.5 Pro,21.0,2.86,2.71,2.43,0.0,0.19
+23,Special,HopeAI,21.0,3.05,2.95,2.9,0.05,0.24
+24,Special,Myelo,21.0,3.05,2.95,2.67,0.14,0.29
